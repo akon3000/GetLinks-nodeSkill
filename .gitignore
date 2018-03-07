@@ -1,0 +1,8 @@
+# Exclude node_modules Directory
+node_modules/*
+
+# Exclude .vscode Directory
+.vscode/*
+
+# Exclude package-lock file
+package-lock.json
